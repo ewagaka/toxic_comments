@@ -11,4 +11,4 @@ The task is to build a model that recognizes toxicity and minimizes this type of
 - treat the problem of toxicity detection as a classification problem, where `target` feature with value higher than 0.5 is treated as a toxic
 - or try to predict exact toxicity score between 0 and 1
 
-## I faced both tasks in my notebook.
+I faced both tasks in my notebook.
